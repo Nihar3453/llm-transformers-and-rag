@@ -1,6 +1,4 @@
-# GenerativeAI-LLM-RAG
-
-Foundation Models and RAG Labs
+# Foundation Models and RAG Labs
 A collection of end-to-end notebooks exploring decoder-only Transformers from scratch, BERT fine-tuning across frameworks, multi-model fine-tuning with Hugging Face, and practical semantic search/RAG pipelines with ChromaDB and Weaviate.
 
 What’s inside:- 
